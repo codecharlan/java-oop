@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/CodeCharlanInstitute/CodeCharlanInstitute.iml" filepath="$USER_HOME$/Documents/CodeCharlanInstitute/CodeCharlanInstitute.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Composition/Composition.iml" filepath="$USER_HOME$/Documents/Composition/Composition.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/EncapsulationChallenge1/EncapsulationChallenge1.iml" filepath="$USER_HOME$/Documents/EncapsulationChallenge1/EncapsulationChallenge1.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/EncapsulationChallenge1/EncapsulationExercise/EncapsulationExercise.iml" filepath="$USER_HOME$/Documents/EncapsulationChallenge1/EncapsulationExercise/EncapsulationExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LearnCompany/LearnCompany.iml" filepath="$PROJECT_DIR$/../LearnCompany/LearnCompany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ooplearn.iml" filepath="$PROJECT_DIR$/ooplearn.iml" />
+    </modules>
+  </component>
+</project>
