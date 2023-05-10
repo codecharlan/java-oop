@@ -4,10 +4,9 @@
     <modules>
       <module fileurl="file://$USER_HOME$/Documents/CodeCharlanInstitute/CodeCharlanInstitute.iml" filepath="$USER_HOME$/Documents/CodeCharlanInstitute/CodeCharlanInstitute.iml" />
       <module fileurl="file://$USER_HOME$/Documents/Composition/Composition.iml" filepath="$USER_HOME$/Documents/Composition/Composition.iml" />
-      <module fileurl="file://$USER_HOME$/Documents/EncapsulationChallenge1/EncapsulationChallenge1.iml" filepath="$USER_HOME$/Documents/EncapsulationChallenge1/EncapsulationChallenge1.iml" />
-      <module fileurl="file://$USER_HOME$/Documents/EncapsulationChallenge1/EncapsulationExercise/EncapsulationExercise.iml" filepath="$USER_HOME$/Documents/EncapsulationChallenge1/EncapsulationExercise/EncapsulationExercise.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Creating Files/Creating Files.iml" filepath="$USER_HOME$/Documents/Creating Files/Creating Files.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LearnCompany/LearnCompany.iml" filepath="$PROJECT_DIR$/../LearnCompany/LearnCompany.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ooplearn.iml" filepath="$PROJECT_DIR$/ooplearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../week_one_task_sq015-codecharlan/week_one_task_sq015/week_one_task_sq015.iml" filepath="$PROJECT_DIR$/../week_one_task_sq015-codecharlan/week_one_task_sq015/week_one_task_sq015.iml" />
     </modules>
   </component>
 </project>
